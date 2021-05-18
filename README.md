@@ -1,1 +1,2 @@
 # giant-steps-desafio
+Para realizacão do desafio, optei pela utilização de um notebook para facilitar a explicação do que foi feito. Para acessar o notebook, basta acessar o arquivo ***giant-steps-desafio.ipynb*** neste repositório. Não é necessário executar nenhum código, pois ele já foi executado pelo Google Colab. O output final está na sessão **Conclusão**, e todas as etapas foram delineadas pelas sessões. 
